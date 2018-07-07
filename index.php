@@ -1,4 +1,5 @@
 <?php
-	echo json_encode($_POST);
+    sleep(rand(1,10));
+    echo json_encode($_POST);
 ?>
 	
